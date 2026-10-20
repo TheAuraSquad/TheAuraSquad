@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "login": "TheAuraSquad",
+  "seed": "#201515",
+  "seedFromAvatar": true,
+  "scheme": "monochrome",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Привет, я",
+    "name": "",
+    "subtitle": "Делаю интерфейсы и небольшие полезные утилиты.",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Земля"
+      },
+      {
+        "icon": "code",
+        "label": "TypeScript · Python"
+      }
+    ]
+  },
+  "about": {
+    "title": "Обо мне",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Разработчик и дизайнер"
+      },
+      {
+        "icon": "code",
+        "label": "В основном фронтенд"
+      },
+      {
+        "icon": "palette",
+        "label": "Люблю Material Design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Стек",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "Java"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "Описания пока нет.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Активность на GitHub",
+    "stars": "Звёзд получено",
+    "contributions": "Вкладов за год",
+    "repos": "Публичных репо",
+    "followers": "Подписчиков",
+    "calendar": "Последние 21 день",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Языки в моих репозиториях",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Серия",
+    "current": "Текущая серия",
+    "longest": "Рекорд за год",
+    "days": "дн."
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/the_auraSquad"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "Мой сайт",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "Все репозитории",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
