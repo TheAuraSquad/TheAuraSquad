@@ -8,8 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Стек"></picture>
 
-<a href="https://github.com/TheAuraSquad/theaurasquad.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-theaurasquad-github-io-dark.svg"><img src="assets/project-theaurasquad-github-io-light.svg" width="49%" alt="theaurasquad.github.io"></picture></a>&nbsp;<a href="https://github.com/TheAuraSquad/simplelauncher"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-simplelauncher-dark.svg"><img src="assets/project-simplelauncher-light.svg" width="49%" alt="simplelauncher"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="Активность на GitHub"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Серия"></picture>
